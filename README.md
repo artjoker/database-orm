@@ -1,10 +1,11 @@
 # Artjoker Database Orm
 
-Simple Orm which generates database contracts for android app. This solution based on apt code generation and can be used for your own solutions which can help you to avoid a lot of boilerplate code.
+Simple Orm which generates database contracts. This solution is based on apt code generation and can be used for your own solutions that can help you to avoid a lot of boilerplate code.
 
-More information about code generation: http://docs.oracle.com/javase/1.5.0/docs/guide/apt/GettingStarted.html
+For more information about code generation please follow: http://docs.oracle.com/javase/1.5.0/docs/guide/apt/GettingStarted.html
 
-APT for android: http://code.neenbedankt.com/gradle-android-apt-plugin/
+APT for android
+http://code.neenbedankt.com/gradle-android-apt-plugin/
 
 You can find generated sources under your /build directory :
 
